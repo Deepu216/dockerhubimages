@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: docker push deepthi216/docker_hub_images:tagname
+          tags: deepthi216/docker_hub_images:tagname
